@@ -35,7 +35,7 @@
 
 ## [Gallery](https://www.planetminecraft.com/server/landeryt-smp-semi-vanilla-whitelist-1-20-1-events-16-hermitcraft-like-lgbtq-friendly/)
 
-> Take a gander aat some screenshots from the server, inlduding players' bases and event builds!
+> Take a gander at some screenshots from the server, inlduding players' bases and event builds!
 
 ## [About Us](https://github.com/landeryt/LanderYTSMP/blob/main/lib/text/staffPage.md)
 
