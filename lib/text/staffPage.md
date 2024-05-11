@@ -11,8 +11,8 @@ Meet the Staff!
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
 + [Honorary/Retired](#honorary)<br/>
-&nbsp;&nbsp; [Minachou_](#Mina)<br/>
-&nbsp;&nbsp; [r4ndomredperson](#Red)<br/>
+&nbsp;&nbsp; [Minachou_](#mina)<br/>
+&nbsp;&nbsp; [r4ndomredperson](#red)<br/>
 
 Below you will find short introductions for every member of the staff team.
 > See an typo or mistake? Feel free to reach out to us!
