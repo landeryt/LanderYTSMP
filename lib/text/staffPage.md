@@ -10,7 +10,7 @@ Meet the Staff!
 &nbsp;&nbsp; [shallowcreek](#shallowcreek)<br/>
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
-+ [Honorary/Retired]([#honorary](https://github.com/landeryt/LanderYTSMP/blob/main/lib/text/staffPage.md#honorary))<br/>
++ [Honorary/Retired](#honorary)<br/>
 &nbsp;&nbsp; [Minachou_](#mina)<br/>
 &nbsp;&nbsp; [r4ndomredperson](#red)<br/>
 
