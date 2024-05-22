@@ -41,7 +41,7 @@
 
 > Shows our current staff teams and some quick introductions.
 
-## [Server History]()
+## [Server History](https://github.com/landeryt/LanderYTSMP/blob/main/lib/text/history.md)
 
 > Read about the server history here.
 
