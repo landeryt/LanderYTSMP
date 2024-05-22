@@ -102,8 +102,31 @@ Finally, we introduced the creative portal, which takes ranked and trusted playe
 
 #### Spawn and Shopping District:
 
-Spawn was located at 0 0 like the previous season, except this time, it was on a boat built by CatKid09. Loved the concept. Just south of the spawn boat was my house, where I resided for the bigger part of the season. I did not participate in playing survival in season 3. I also kept a sheep called Lamber, who we will come back to, later in this seaason history. 
+Spawn was located at 0 0 like the previous season, except this time, it was on a boat built by CatKid09. Loved the concept. Just south of the spawn boat was my house, where I resided for the better part of the season. I did not participate in playing survival in season 3. I also kept a sheep called Lamber, who we will come back to, later in this seaason history. 
 
-Spawn was built completely in survival for the first time on the LanderYT SMP. We went through a lot of planning
+Spawn was built completely in survival for the first time on the LanderYT SMP. We went through a lot of planning and trial and error to achieve season 3 spawn. If I have to rate, season 3 spawn was my second favorite spawn so far, after season 5's, the current season as of the time I wrote this history page.
 
+Shops were scattered on the north and west side of the spawn island. We didn't have nearly as many shops as we did in season 2, partly because of the lack of space as well as the dictation of shop styles from my side. I wanted shops designed as ships in the marina to the north of spawn, but not everyone wanted to build a ship for their shop. 
 
+We also had a nether hub this season! We adapted a very interesting tunnel design, which required hundreds of hours into the creation and resource-gathering period. 
+
+Finally, on every dock in the 4 directions of spawn, we added a boat dispenser so that new players can easily navigate out of spawn. However, since the button is accessible to everyone, I always wake up to a bunch of boats lying around because of a naughty child. 
+
+#### Staff Team:
+There were even more demotions from the staff team leading up to the end of the season. However, there was one positive thing that happened, the introduction of Minachu to the staff team. 
+
+Minachu is a player who began playing in season 2 of the LanderYT SMP, but only became more active at the start of the new season 3. She rised through the ranks in the staff team swiftly, eventually, for the first time, and possibly only time in the LanderYT SMP, we had an Admin. 
+
+#### Downfall:
+
+When the school year recommenced in September 2022, I also moved to Turkey to begin my education as a college student. Not many, even the owner, wanted to play on the server. It was truly the darkest hours of the server. 
+
+Then, on a faithful day of the End Fight, disaster struck. Multiple active players died and lost all their items during their entrance to the end dimension, due to FlamingXD (needs confirmation) dropping TNT into the end portal. When I refused to return the items to the players, the group began wrecking havoc to the structures. They murdered Lamber, my sheep, in cold blood, as well as did minor damage to the nether hub and spawn. 
+
+On a beautiful November day, I decided on the closure of the LanderYT SMP for good, and deleted the discord server. Or so I thought.
+
+## Season 4:
+
+I never thought this day would ever come, but I don't think I could ever get Minecraft out of my head. It's an indispensible part of my life, and not in a bad way. I genuinely feel like I've become a better person thanks to Minecraft. So, I wanted to restart on the survival content on my Youtube channel. And I thought, what better way to post survival content than making a let's play series on my channel?
+
+[I did it](https://youtu.be/5mMBqThWr4k?si=LqdOx0tJ2whecT-X). I began posting again on my channel a series called How I made my Minecraft SMP, where the goal was to show the entire process of setting up a server like mine. However, it didn't take long for me to realise that players were much more into the gaming content than the behind the scenes stuff of my server. Consequently, from [episode 3](https://youtu.be/WwgJzsC_YUU?si=tt_c2ooQxOCcHHqL) on, I moved entirely to just Minecraft gameplay.
