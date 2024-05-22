@@ -130,3 +130,33 @@ On a beautiful November day, I decided on the closure of the LanderYT SMP for go
 I never thought this day would ever come, but I don't think I could ever get Minecraft out of my head. It's an indispensible part of my life, and not in a bad way. I genuinely feel like I've become a better person thanks to Minecraft. So, I wanted to restart on the survival content on my Youtube channel. And I thought, what better way to post survival content than making a let's play series on my channel?
 
 [I did it](https://youtu.be/5mMBqThWr4k?si=LqdOx0tJ2whecT-X). I began posting again on my channel a series called How I made my Minecraft SMP, where the goal was to show the entire process of setting up a server like mine. However, it didn't take long for me to realise that players were much more into the gaming content than the behind the scenes stuff of my server. Consequently, from [episode 3](https://youtu.be/WwgJzsC_YUU?si=tt_c2ooQxOCcHHqL) on, I moved entirely to just Minecraft gameplay.
+
+When the server was finally back, I started contacting the veteran players, and to my surprise, almost all of them returned at various points during season 4. I was so grateful to have you all back. 
+
+#### Changelog:
+
+We went back to building spawn in creative mode again, because I didn't have enough people who I trust to build it in survival. I was mostly on my own, with the occasional help from CatKid09, who made a return to the staff team. 
+
+Shopping district was located on the west side of spawn, a completely seperate region to spawn area. We had a decent number of shops that popped up. It was nice. I'm tired.
+
+I constructed a trap building right outside of spawn, where griefers will be blown up if they attempt to open the trapped chest. It claimed hundreds of lives. I'm so proud of the trap building. 
+
+#### What happened:
+
+Nothing particularly bad happened, except for the fatal error in July 2023 I made to the world file which resulted in the deletion of nearly everything. Yeah, that's about it. Following the blunder, I was forced to start a new season and disappoint my current player base. 
+
+Nevertheless, season 4 was a great stepping stone and a massive confidence boost for me, going into season 5, our current season as of writing time. I met many players who went on to become the backbone of my player base, as well as finally made the groundbreaking decision to cut ties with Minehut, who were going on a downward spiral to their loyal customers. Until this point, I have personally paid every penny to the hosts to keep the server running. That will no longer be the case in our current season. 
+
+## Season 5:
+
+Welcome to season 5 of the LanderYT SMP! I continued working on my survival series in the new season, and we will be hitting the 12th episode soon in June! 
+
+#### Changelog:
+
+Before launching the new season, I booted a test server where me and a few trusted players began working on the construction of season 5 spawn. Season 5 spawn went on to become the most beautiful team creation I've ever witnessed. 
+
+A few weeks following the launch of the server, I was worried about the prospects of uninvited rulebreakers, and seeing that I've finally figured out how to advertise the server to players from other sources, I was led to the decision of turning whitelist on. You bet your bottom dollar I won't be turning it on any time soon.
+
+#### As of now:
+
+Season 5 has been going on for 10 months, the longest season so far in the LanderYT SMP. The community has been nothing but amazing, and our current players have been staying because of the community, not because of the server. I know that I have achieved something special when I noticed this trend. Thank you for reading, and if you want anything modified in this history page, please don't hesitate to reach out!
