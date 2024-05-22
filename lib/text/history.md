@@ -113,9 +113,11 @@ We also had a nether hub this season! We adapted a very interesting tunnel desig
 Finally, on every dock in the 4 directions of spawn, we added a boat dispenser so that new players can easily navigate out of spawn. However, since the button is accessible to everyone, I always wake up to a bunch of boats lying around because of a naughty child. 
 
 #### Staff Team:
-There were even more demotions from the staff team leading up to the end of the season. However, there was one positive thing that happened, the introduction of Minachu to the staff team. 
+There were even more demotions from the staff team leading up to the end of the season. However, there were a few positive thing that happened, such as the introduction of Minachu to the staff team. 
 
 Minachu is a player who began playing in season 2 of the LanderYT SMP, but only became more active at the start of the new season 3. She rised through the ranks in the staff team swiftly, eventually, for the first time, and possibly only time in the LanderYT SMP, we had an Admin. 
+
+We also welcomed Red to the staff team, and he continued to help the server in various ways to present day.
 
 #### Downfall:
 
