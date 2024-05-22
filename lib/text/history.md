@@ -96,4 +96,14 @@ Since GriefPrevention plugin was in play in season 3, this directly meant that I
 
 ![Season 3 spawn farm](https://github.com/landeryt/LanderYTSMP/assets/145010136/6bcfd6b3-a2cf-4cc6-bc13-ae0c09f52016)
 
+Season 3 spawn farm was the place where players can gather food for their long ocean journey. Sounds noble right? Wrong. I also wanted to use the farm as a way to catch griefers early. Every morning, I would wake up, use CoreProtect to check who griefed the farm and ban like 10 people. I love banning people. In fact, season 3 was when we reached over 4000 banned players, an insane number for the Minehut network back then. 
+
+Finally, we introduced the creative portal, which takes ranked and trusted players to the creative world, where they can design their builds and participate in my events.
+
+#### Spawn and Shopping District:
+
+Spawn was located at 0 0 like the previous season, except this time, it was on a boat built by CatKid09. Loved the concept. Just south of the spawn boat was my house, where I resided for the bigger part of the season. I did not participate in playing survival in season 3. I also kept a sheep called Lamber, who we will come back to, later in this seaason history. 
+
+Spawn was built completely in survival for the first time on the LanderYT SMP. We went through a lot of planning
+
 
