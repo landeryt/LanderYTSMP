@@ -43,6 +43,8 @@ Mika and Tonka were the ones responsible for all the nice things in my base, and
 
 I experimented with a lot of unique plugins in season 2, completely steering off what I intended for the community. I remember, at one point, I did weekly updates to the server, where every week, I would remove last week's gimmick and add the current week's plugin. It was a lot of fun. We had the seasons plugin, which caused some mild buffs and debuffs during the 4 seasons. We also had the custom music plugin, where players can request the addition of various songs, such as Rickroll or Crab Rave. Unfortunately, I did not have the time nor energy to deal with these additional features, so all of which eventually came to an end.
 
+We kept the world border at 4000 blocks each direction, which was more than enough for my current playerbase's needs.
+
 #### Events and Ranks:
 
 This is the season that I began hosting events seriously. Hide and seek, Lander Says, "Run to the coords", Rainbow Run and Tag made their first appearance on the server this season. To this day, Hide and Seek and Lander Says are still really popular events on the server, and I dare say, the most popular events, while Rainbow Run remained as the server tiebreaker. The way I rewarded players were also unique this season. Instead of handing out event tokens nowadays, I placed 10 signs where event winners have to pick from. I wrote all sorts of rewards and punishments on the back of the signs, such as Diamonds, Dirt, Golden Carrots and Rank Upgrades.
@@ -75,5 +77,23 @@ Akarni, who was really shy in her first season on the server, went on to become 
 #### Notable Members:
 * REALspelgubbe, the player with the highest playtime in season 2, managed to collect a shulker full of elytras and spent a lot of time flexing that fat shulker of his, only to die in some random bastion.
 
+#### Conclusion
+The season ended as I felt server activity going down, and I "thought" a reset was what the community needed. It took me a long time after, to realise that the dip in activity was normal annually due to finals. It did work out eventually, and we started... season 3. 
+
+## Season 3:
+Welcome to season 3 of the LanderYT SMP. Thank you for reading this far, I'm sure you have had a great time enjoying my two cents. 
+
+Anyway, for season 3, Sunny, my best staff member at the time, suggested we start out on an island in the middle of the ocean. I was so on board with the idea that me, together with the rest of my staff team, conjured up a very detailed plan for spawn, and it worked out amazingly. 
+
+#### Changelog:
+Season 3 saw the panic that washed over me, where I frantically tried to revert back to the way I intended our SMP to be. I removed home teleport commands completely, leaving only /spawn. This change, together with the fact that spawn was in the middle of the ocean, made the lives of season 3 players miserable. 
+
+I was also extremely worried about the griefing that always happen when I take a good night's sleep. Therefore, I introduced GriefPrevention, the world's most popular land claiming plugin. Players can now claim their land to protect themselves from nasty griefers. However, I did not figure out a good way to distribute claim blocks to those who actually needed it, which caused a lot of nuisance to the community. 
+
+The world border remained at 4000 blocks each direction, which led to an unexpected problem. Since we were playing in the new 1.19 update, the update where they added the Ancient City and Wardens, everyone wanted a piece of that. However, due to the small size of the border, it was not possible for anyone to get their hands on the new swift sneak enchantment. 
+
+Since GriefPrevention plugin was in play in season 3, this directly meant that I had to get rid of my usual WorldGuard plugin that I used to secure spawn. However, this opened up an opportunity to create a specific area in spawn where all players can modify, the **Season 3 spawn farm**.
+
+![2022-08-23_07 54 50](https://github.com/landeryt/LanderYTSMP/assets/145010136/6bcfd6b3-a2cf-4cc6-bc13-ae0c09f52016)
 
 
