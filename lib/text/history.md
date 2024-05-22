@@ -21,9 +21,7 @@ About a week after the launch of the pre-season, I have done it. I figured out t
 
 Unfortunately we will hardly see any footage or images from any season before season 4, so you will have to take my word for it. 
 
-I'm not exactly proud of what I managed to achieve with season 1, there were countless things I wished could've gone differently. 
-
-Spawn wasn't located at 0 0. I put spawn at a random location in the world, which was a huge nuisance to the whole player base's gameplay. 
+I'm not exactly proud of what I managed to achieve with season 1, there were countless things I wished could've gone differently. Spawn wasn't located at 0 0. I put spawn at a random location in the world, which was a huge nuisance to the whole player base's gameplay. 
 
 I simply couldn't manage to moderate the server, I was too rusty for this job. The influx of players overwhelmed me beyond understanding, never in my life have I imagined my server having 10+ players online simultaneously. Most of the players who joined in season 1 are no longer around; regardless, it was definitely a precious experience for a new server owner like me. 
 
@@ -40,3 +38,11 @@ Season 2 was when it really became serious for me, this whole server owning thin
 I've finalised my exit from the server that inspired the LanderYT SMP. Even then, on the way out, I picked up a few more important lessons for my server, which I still use to this day. First of all, spawn is now placed at 0 0, the center of the world. I've also figured out how to give the spawn area build protection, so that the nasty children of Minehut at least can't do player or property damage, 5 seconds into the server.
 
 In season 2, I began to play survival seriously for the first time in a year, on my own server. How exciting was that? I teamed up with 3 players, all from Australia: Rose, Mika and Tonka, who all went on to become staff members for my server. I have to admit, I just really wanted my good friends to help me out with the server even more, especially during my downtime. I'm not proud of what I did back then, I did not put a single bit of effort into learning how to build decently (I was originally a plain combatant). Instead, I constructed every automatic farm I could have imagined, and it made my season 2 base look like a big mess.
+
+Mika and Tonka were the ones responsible for all the nice things in my base, and I was the sole resource provider for those talented builders. We also went on to give the server spawn a more pleasant look.
+
+I experimented with a lot of unique plugins in season 2, completely steering off what I intended for the community. I remember, at one point, I did weekly updates to the server, where every week, I would remove last week's gimmick and add the current week's plugin. It was a lot of fun. We had the seasons plugin, which caused some mild buffs and debuffs during the 4 seasons. We also had the custom music plugin, where players can request the addition of various songs, such as Rickroll or Crab Rave. Unfortunately, I did not have the time nor energy to deal with these additional features, so all of which eventually came to an end.
+
+This is the season that I began hosting events seriously. Hide and seek, Lander Says, "Run to the coords" and Tag made their first appearance on the server this season. To this day, Hide and Seek and Lander Says are still really popular events on the server, and I dare say, the most popular events. The way I rewarded players were also unique this season. Instead of handing out event tokens nowadays, I placed 10 signs where event winners have to pick from. I wrote all sorts of rewards and punishments on the back of the signs, such as Diamonds, Dirt, Golden Carrots and Rank Upgrades.
+
+Let's talk about Ranks.
