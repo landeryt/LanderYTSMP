@@ -94,6 +94,6 @@ The world border remained at 4000 blocks each direction, which led to an unexpec
 
 Since GriefPrevention plugin was in play in season 3, this directly meant that I had to get rid of my usual WorldGuard plugin that I used to secure spawn. However, this opened up an opportunity to create a specific area in spawn where all players can modify, the **Season 3 spawn farm**.
 
-![2022-08-23_07 54 50](https://github.com/landeryt/LanderYTSMP/assets/145010136/6bcfd6b3-a2cf-4cc6-bc13-ae0c09f52016)
+![Season 3 spawn farm](https://github.com/landeryt/LanderYTSMP/assets/145010136/6bcfd6b3-a2cf-4cc6-bc13-ae0c09f52016)
 
 
