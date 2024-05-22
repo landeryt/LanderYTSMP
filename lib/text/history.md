@@ -43,6 +43,37 @@ Mika and Tonka were the ones responsible for all the nice things in my base, and
 
 I experimented with a lot of unique plugins in season 2, completely steering off what I intended for the community. I remember, at one point, I did weekly updates to the server, where every week, I would remove last week's gimmick and add the current week's plugin. It was a lot of fun. We had the seasons plugin, which caused some mild buffs and debuffs during the 4 seasons. We also had the custom music plugin, where players can request the addition of various songs, such as Rickroll or Crab Rave. Unfortunately, I did not have the time nor energy to deal with these additional features, so all of which eventually came to an end.
 
-This is the season that I began hosting events seriously. Hide and seek, Lander Says, "Run to the coords" and Tag made their first appearance on the server this season. To this day, Hide and Seek and Lander Says are still really popular events on the server, and I dare say, the most popular events. The way I rewarded players were also unique this season. Instead of handing out event tokens nowadays, I placed 10 signs where event winners have to pick from. I wrote all sorts of rewards and punishments on the back of the signs, such as Diamonds, Dirt, Golden Carrots and Rank Upgrades.
+#### Events and Ranks:
 
-Let's talk about Ranks.
+This is the season that I began hosting events seriously. Hide and seek, Lander Says, "Run to the coords", Rainbow Run and Tag made their first appearance on the server this season. To this day, Hide and Seek and Lander Says are still really popular events on the server, and I dare say, the most popular events, while Rainbow Run remained as the server tiebreaker. The way I rewarded players were also unique this season. Instead of handing out event tokens nowadays, I placed 10 signs where event winners have to pick from. I wrote all sorts of rewards and punishments on the back of the signs, such as Diamonds, Dirt, Golden Carrots and Rank Upgrades.
+
+Let's talk about Ranks. From season 1 to season 3, normal players can obtain 2 ranks: VIP and MVP. During season 2, VIP and MVP had access to /nick and more /sethomes. I believe that the ranks had even more functionalities, but I cannot recall more. The only way to obtain a rankup was from participating in events. This was extremely unfair because most events back then required a bit of skill.
+
+#### Shopping district:
+
+For the first time, we had an established shopping district. I was lucky enough to stumble on a plugin called TradeShops, a plugin that allows players to right click on a sign to trade their currency, in this case always Diamonds, for the item they desired on the sign. This method prevented the immature rulebreakers of Minehut to steal from player shops first thing. During the creation of this history page, it occurred to me that the majority of the shops in season 2 belonged to a staff member. We had:
+* Maccas, a food shop by Rose.
+* Alchemy shop by Mika.
+* Stone and amethyst shop by Tonka.
+* Axolotl shop by Sunny, who was also a staff member.
+* Banner shop (?) by CatKid09, also a staff.
+* Pop-up enchantment book shop by REALspelgubbe, which later became inactive and LanderYT had to step in and create a similar shop on the other side of the road.
+* Honey shop by jjboyisawesome.
+* Rocket shop by flamingXD.
+* Totem shop by someone I don't remember.
+* Prismarine shop by Rose.
+
+#### Staff Team:
+Enough with the shopping district, let's go over our staff team! Season 2 staff team was the biggest ever on the server, with 10 members at one point. We had: Rose, Mika, Tonka, Ghastly, Jello, Sunny, Cat, Akarni. I might have forgotten someone, sucks to suck. 
+
+Ghastly and Jello were a pair of chaotic staff members, and I'm sure they were proud of it anyway. They eventually committed some tomfoolery which resulted in their demotion, but I welcomed them back on the server and we still remain on good terms to this day. 
+
+Sunny and Cat, however, were vastly different in terms of perspective when it comes to how they conduct their gameplay on the server. I believe that Cat was into a more laid-back style, she built this horse stable and, you guessed it, had a lot of horses. Sunny, on the other hand, were just as chaotic as the pair above. She constructed the great colloseum, where great pvp battles happened. LanderYT still has not lost a single match. Anyway, this eventually led to the collapse of their relationship. Sunny never came back after the end of the third season, and Cat is a rare recurring character of the server to this day. 
+
+Akarni, who was really shy in her first season on the server, went on to become one of the most chaotic staff members. 
+
+#### Notable Members:
+* REALspelgubbe, the player with the highest playtime in season 2, managed to collect a shulker full of elytras and spent a lot of time flexing that fat shulker of his, only to die in some random bastion.
+
+
+
