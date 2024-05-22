@@ -41,6 +41,10 @@
 
 > Shows our current staff teams and some quick introductions.
 
+## [Server History]()
+
+> Read about the server history here.
+
 ## Join Us!
 
 > [This is our Discord Server](https://discord.gg/v2RRck9KWn)
