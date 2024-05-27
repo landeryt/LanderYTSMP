@@ -29,7 +29,7 @@
 
 > Venture through here to be guided through some quick how-to's and extra info!
 
-## [Dynmap](http://94.130.131.50:25741/)
+## [Dynmap](http://45.143.198.197:25692/)
 
 > Take a look at the world through a top-down view!
 
