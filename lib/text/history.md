@@ -147,6 +147,8 @@ I constructed a trap building right outside of spawn, where griefers will be blo
 
 Nothing particularly bad happened, except for the fatal error in July 2023 I made to the world file which resulted in the deletion of nearly everything. Yeah, that's about it. Following the blunder, I was forced to start a new season and disappoint my current player base. 
 
+There was this town 'Potato Town' only 300 blocks from spawn, while we're still hooked to Minehut, owned by a player called Rufuswastaken. Every single player from this town was banned except for Rufus, who went on to go inactive. 
+
 Nevertheless, season 4 was a great stepping stone and a massive confidence boost for me, going into season 5, our current season as of writing time. I met many players who went on to become the backbone of my player base, as well as finally made the groundbreaking decision to cut ties with Minehut, who were going on a downward spiral to their loyal customers. Until this point, I have personally paid every penny to the hosts to keep the server running. That will no longer be the case in our current season. 
 
 ## Season 5:
@@ -160,5 +162,6 @@ Before launching the new season, I booted a test server where me and a few trust
 A few weeks following the launch of the server, I was worried about the prospects of uninvited rulebreakers, and seeing that I've finally figured out how to advertise the server to players from other sources, I was led to the decision of turning whitelist on. You bet your bottom dollar I won't be turning it on any time soon.
 
 #### As of now:
+Later on in the season, me and a player known as Charlotte had a friendly prank war which was very fun, and it was possibly the first ever war that was 100% friendly and without bad blood. 
 
 Season 5 has been going on for 10 months, the longest season so far in the LanderYT SMP. The community has been nothing but amazing, and our current players have been staying because of the community, not because of the server. I know that I have achieved something special when I noticed this trend. Thank you for reading, and if you want anything modified in this history page, please don't hesitate to reach out!
