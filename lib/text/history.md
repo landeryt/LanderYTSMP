@@ -166,4 +166,6 @@ I went on to make the server more and more accessible to the players within, suc
 #### As of now:
 Later on in the season, me and a player known as Charlotte had a friendly prank war which was very fun, and it was possibly the first ever war that was 100% friendly and without bad blood. The war ended with an intense 1v1 pvp battle between LanderYT and B1AC_K - the representative of Charlotte's side, with LanderYT coming out on top.
 
+On June 18th, the server reached another peak player count of 24. We were attending a wedding between Charlotte and Brook, and it was mildly organised. 
+
 Season 5 has been going on for 10 months, the longest season so far in the LanderYT SMP. The community has been nothing but amazing, and our current players have been staying because of the community, not because of the server. I know that I have achieved something special when I noticed this trend. Thank you for reading, and if you want anything modified in this history page, please don't hesitate to reach out!
