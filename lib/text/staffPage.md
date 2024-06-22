@@ -49,6 +49,10 @@ Have a nice day!
 
 ## Trainees
 
+## Event Manager(s)
+### Charlotte
+The event manager is Charlotte who is also the event manager and she makes events atleast every week - Charlotte.
+
 ## Honorary
 ### Mina
 heya i'm mina i do builds and i love bees ^^ and uh yeah if any of you ever need anything lmk ill be happy to help <3
