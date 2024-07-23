@@ -29,7 +29,7 @@
 
 > Venture through here to be guided through some quick how-to's and extra info!
 
-## [Dynmap](http://45.143.198.197:25692/)
+## [Dynmap](http://landeryt.minecraft.best:7777/)
 
 > Take a look at the world through a top-down view!
 
