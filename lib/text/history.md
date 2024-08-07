@@ -168,4 +168,10 @@ Later on in the season, me and a player known as Charlotte had a friendly prank 
 
 On June 18th, the server reached another peak player count of 24. We were attending a wedding between Charlotte and Brook, and it was mildly organised. 
 
-Season 5 has been going on for 10 months, the longest season so far in the LanderYT SMP. The community has been nothing but amazing, and our current players have been staying because of the community, not because of the server. I know that I have achieved something special when I noticed this trend. Thank you for reading, and if you want anything modified in this history page, please don't hesitate to reach out!
+Season 5 has been going on for 11 months, the longest season so far in the LanderYT SMP. The community has been nothing but amazing, and our current players have been staying because of the community, not because of the server. I know that I have achieved something special when I noticed this trend. Thank you for reading, and if you want anything modified in this history page, please don't hesitate to reach out!
+
+#### End of season:
+Season 5 has ended on August 5th, 2024 to make room for the new season.
+
+## Season 6: 
+Season 6 started on August 9th, 2024. 
