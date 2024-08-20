@@ -10,6 +10,7 @@ Meet the Staff!
 &nbsp;&nbsp; [shallowcreek](#shallowcreek)<br/>
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
+&nbsp;&nbsp; [Athena18](#athena18)<br/>
 + [Event Manager](#event-managers)<br/>
 &nbsp;&nbsp; [Charlotte](#charlotte)<br/>
 + [Honorary/Retired](#honorary)<br/>
@@ -50,6 +51,7 @@ Have a nice day!
 ## Helpers
 
 ## Trainees
+### Athena18
 
 ## Event Manager(s)
 ### Charlotte
