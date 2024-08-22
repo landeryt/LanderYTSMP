@@ -20,7 +20,7 @@ Paste the resource pack you copied in Step 1 into the resourcepacks folder.
 
 
 
-## If you're using any other launcher, follow the instruction below:  
+## If you're using any other launcher, follow the instruction below, this method also works for vanilla launcher:  
 [instruction](https://youtu.be/LhOFa1LspU0)  
 
 
