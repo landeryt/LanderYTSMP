@@ -14,11 +14,7 @@ Second, open .minecraft folder and open resourcepacks folder:
 ## Step 3: Copy+Paste the pack into the folder
 Paste the resource pack you copied in Step 1 into the resourcepacks folder. 
 
-## Step 4: Extract the resource pack archive
-Select "Extract here" as shown below.   
-![extract](https://github.com/landeryt/LanderYTSMP/blob/main/lib/screenshots/extract_here.jpg)
-
-## Step 5: Open resource packs in-game and put the pack on the highest layer
+## Step 4: Open resource packs in-game and put the pack on the highest layer
 ![play](https://github.com/landeryt/LanderYTSMP/blob/main/lib/screenshots/highest_layer.jpg)
 
 ## Done! Thank you for following the tutorial. If you have any questions, make sure to contact LanderYT for assistance!
