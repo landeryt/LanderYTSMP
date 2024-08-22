@@ -1,7 +1,7 @@
 # Tutorial for installing LanderYT SMP Resource Pack
 
 ## Step 1: Download the pack
-Here is the [link](https://drive.google.com/file/d/1Pm4Ffe_aPS6NPyKMIO-cuKDNK2yncD8O/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
+Here is the [link](https://drive.google.com/file/d/1gyGokcPTNe3MLpuvUEg5XkMEu9_ffNeo/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
 
 ## Step 2: Navigate to the resourcepacks folder
 First, type %appdata% in your navigation bar as shown:    
