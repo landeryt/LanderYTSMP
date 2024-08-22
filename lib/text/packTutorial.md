@@ -21,7 +21,7 @@ Paste the resource pack you copied in Step 1 into the resourcepacks folder.
 
 
 ## If you're using any other launcher, follow the instruction below:  
-![instruction](https://youtu.be/LhOFa1LspU0)  
+[instruction](https://youtu.be/LhOFa1LspU0)  
 
 
 ### Done! If you have any questions, don't hesitate to ask me!
