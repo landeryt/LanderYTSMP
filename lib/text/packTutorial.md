@@ -1,6 +1,11 @@
 # Tutorial for installing LanderYT SMP Resource Pack
 
-## For minecraft official launcher
+
+## This is the easiest instruction video that works for all launchers: 
+[Instruction](https://youtu.be/LhOFa1LspU0)  
+
+
+## For minecraft official launcher, if the instruction above doesn't work.  
 ## Step 1: Download the pack
 Here is the [download link](https://drive.google.com/file/d/1fQN8Nc4FrlDMkEJbOMBZoAx5uzn40fmc/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
 
@@ -19,9 +24,6 @@ Paste the resource pack you copied in Step 1 into the resourcepacks folder.
 ![play](https://github.com/landeryt/LanderYTSMP/blob/main/lib/screenshots/highest_layer.jpg)  
 
 
-
-## If you're using any other launcher, follow the instruction below, this method also works for vanilla launcher:  
-[instruction](https://youtu.be/LhOFa1LspU0)  
 
 
 ### Done! If you have any questions, don't hesitate to ask me!
