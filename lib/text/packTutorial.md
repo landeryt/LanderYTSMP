@@ -2,7 +2,7 @@
 
 ## For minecraft official launcher
 ## Step 1: Download the pack
-Here is the [link](https://drive.google.com/file/d/1gyGokcPTNe3MLpuvUEg5XkMEu9_ffNeo/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
+Here is the [download link](https://drive.google.com/file/d/1fQN8Nc4FrlDMkEJbOMBZoAx5uzn40fmc/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
 
 ## Step 2: Navigate to the resourcepacks folder
 First, type %appdata% in your navigation bar as shown:    
