@@ -3,11 +3,11 @@
 This is the first addition to LanderYT SMP season 6. Head hunt takes inspiration from hermitcraft season 6 as well as egg hunt of hermitcraft season 8. 
 
 ## What is Head Hunt?
-Head Hunt is a passive, long-term event where players take turns to hide a specific block/item. In this case, it will be the skull of LanderYT, the owner. This information might change in later editions. The winner of the event is determined by how long one is able to keep the head hidden in their base. This event is expected to last 1 week.  
+Head Hunt is a passive, long-term event where players take turns to hide a specific block/item. In this case, it will be the skull of Charlotte, the event manager. This information might change in later editions. The winner of the event is determined by how long one is able to keep the head hidden in their base. This event is expected to last 1 week.  
 
 ## Rules
 **1. Hiding**
-* Players will hide the LanderYT head in a man-made building within the boundaries of their base.
+* Players will hide the Charlotte head in a man-made building within the boundaries of their base.
 * The building in question must not be underground, too tall from the ground, underwater, unlit, in the nether or ambiguous. Basements and mine entrances will also not be allowed. 
 * The head must be exposed to **plain sight** from at least 2 sides. Plain sight means it should not be obstructed even by chests, trapdoors, carpets and more.
 * Accessing the head must not involve any quirks or movement aids whatsoever such as enderpearls, crawling or breaking/placing blocks.
