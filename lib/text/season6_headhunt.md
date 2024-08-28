@@ -26,7 +26,7 @@ Head Hunt is a passive, long-term event where players take turns to hide a speci
 
 4. **Rewards**
 * Every player/team to find a head is guaranteed one event coin. If a team finds it, they still only receive one single coin.
-#### The longer one hides the head, the more event coins they earn: 
+ The longer one hides the head, the more event coins they earn: 
 * 7 event coins to winner.
 * 5 event coins to runner-up.
 * 4 event coins to third place.
