@@ -9,7 +9,7 @@ Head Hunt is a passive, long-term event where players take turns to hide a speci
 **1. Hiding**
 * Players will hide the Charlotte head in a man-made building within the boundaries of their base.
 * The building in question must not be underground, too tall from the ground, underwater, unlit, in the nether or ambiguous. Basements and mine entrances will also not be allowed. 
-* The head must be exposed to **plain sight** from at least 2 sides. Plain sight means it should not be obstructed even by chests, trapdoors, carpets and more.
+* The head must be exposed to **air** from at least 2 sides. 
 * Accessing the head must not involve any quirks or movement aids whatsoever such as enderpearls, crawling or breaking/placing blocks.
 * Accessing the head must be possible to near beginners of Minecraft, so contraptions and parkour are also off-limits.
 * Hiders are required to provide coordinates within 50 block radius of their hiding spot.
@@ -18,7 +18,8 @@ Head Hunt is a passive, long-term event where players take turns to hide a speci
 **2. Seeking**
 * Upon finding the head, seekers will alert the server in the designated head hunt channel on discord, with a screenshot as evidence. They are then required to hide the head at their base, then alert the server again with the coordinates according to Hiding rules.
 * Seekers have up to 6 hours to hide the head before being disqualified. 
-* Seekers must not use any movement aids or tricks to access potential hiding spots.  
+* Seekers must not use any movement aids or tricks to access potential hiding spots.
+* Seekers must provide the location of the found head.  
 
 **3. Timing**
 * The winner of the event will be determined by how long the player is able to keep the head hidden.
