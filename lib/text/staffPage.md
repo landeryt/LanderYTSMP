@@ -9,13 +9,12 @@ Meet the Staff!
 + [Moderators](#moderators)<br/>
 &nbsp;&nbsp; [shallowcreek](#shallowcreek)<br/>
 + [Helpers](#helpers)<br/>
-+ [Trainees](#trainees)<br/>
 &nbsp;&nbsp; [Athena18](#athena18)<br/>
++ [Trainees](#trainees)<br/>
 + [Event Manager](#event-managers)<br/>
 &nbsp;&nbsp; [Charlotte](#charlotte)<br/>
 + [Honorary/Retired](#honorary)<br/>
 &nbsp;&nbsp; [Minachou_](#mina)<br/>
-&nbsp;&nbsp; [r4ndomredperson](#red)<br/>
 
 Below you will find short introductions for every member of the staff team.
 > See an typo or mistake? Feel free to reach out to us!
@@ -49,9 +48,9 @@ Have a nice day!
 
 
 ## Helpers
+### Athena18
 
 ## Trainees
-### Athena18
 
 ## Event Manager(s)
 ### Charlotte
@@ -60,6 +59,3 @@ The event manager is Charlotte who is also the event manager and she makes event
 ## Honorary
 ### Mina
 heya i'm mina i do builds and i love bees ^^ and uh yeah if any of you ever need anything lmk ill be happy to help <3
-
-### Red
-Hello, I am formally known as Red in Lander's smp, but some even know me as Chris, Lander's smp of course is the one of the best smps I have genuinely played on, and as an obvious fact is that playing there has not been boring, there is always challenges, events and amazing people to hangout with. My status in the server is a staff in disguise, one of the reasons being my ability to moderate, but also that I'd like to from time to time play as an usual player. I am from Sweden and I'm quite interested in cars and watches. 👍🏼
