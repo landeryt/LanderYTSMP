@@ -11,6 +11,7 @@ Meet the Staff!
 + [Helpers](#helpers)<br/>
 &nbsp;&nbsp; [Athena18](#athena18)<br/>
 + [Trainees](#trainees)<br/>
+&nbsp;&nbsp; [Macky](#macky)<br/>
 + [Event Manager](#event-managers)<br/>
 &nbsp;&nbsp; [Charlotte](#charlotte)<br/>
 + [Honorary/Retired](#honorary)<br/>
@@ -51,6 +52,8 @@ Have a nice day!
 ### Athena18
 
 ## Trainees
+### Macky
+Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in Sept. of 2024. I have been playing minecraft since I was around 9 years old and switched over to Java only two years ago! My play style is building! I love creating new things and turning the world into something beautiful. I am in college IRL to become an occupational therapist so if you ever need me I am just a DM away!
 
 ## Event Manager(s)
 ### Charlotte
