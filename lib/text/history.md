@@ -175,3 +175,8 @@ Season 5 has ended on August 5th, 2024 to make room for the new season.
 
 ## Season 6: 
 Season 6 started on August 9th, 2024. 
+
+#### Changelog:
+Season 6 started with a small change from season 5. We have removed the /home command, making /spawn the only useful teleport command on the server. 
+
+Season 6 also witnesses the introduction of Shop Permits like Hermitcraft season 10! We have our own server texture pack which can be found in the wiki, and it's constantly being updated to feature more custom texture weapons as well as accessories. 
