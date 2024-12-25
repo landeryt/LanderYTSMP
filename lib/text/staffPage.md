@@ -13,8 +13,6 @@ Meet the Staff!
 + [Trainees](#trainees)<br/>
 &nbsp;&nbsp; [Macky](#macky)<br/>
 &nbsp;&nbsp; [Viv](#viv)<br/>
-+ [Event Manager](#event-managers)<br/>
-&nbsp;&nbsp; [Charlotte](#charlotte)<br/>
 + [Honorary/Retired](#honorary)<br/>
 &nbsp;&nbsp; [Minachou_](#mina)<br/>
 
@@ -57,10 +55,6 @@ Have a nice day!
 Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in Sept. of 2024. I have been playing minecraft since I was around 9 years old and switched over to Java only two years ago! My play style is building! I love creating new things and turning the world into something beautiful. I am in college IRL to become an occupational therapist so if you ever need me I am just a DM away!
 
 ### Viv
-
-## Event Manager(s)
-### Charlotte
-The event manager is Charlotte who is also the event manager and she makes events atleast every week - Charlotte.
 
 ## Honorary
 ### Mina
