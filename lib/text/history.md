@@ -180,3 +180,11 @@ Season 6 started on August 9th, 2024.
 Season 6 started with a small change from season 5. We have removed the /home command, making /spawn the only useful teleport command on the server. 
 
 Season 6 also witnesses the introduction of Shop Permits like Hermitcraft season 10! We have our own server texture pack which can be found in the wiki, and it's constantly being updated to feature more custom texture weapons as well as accessories. 
+
+Season 6 saw the introduction of a few new staff members such as Viv, Athena, Macky and Motas.
+
+It was a relatively tame season with a lot of nice people, and it ended on August 4th, 2025, to make way for the next season.
+
+## Season 7:
+
+Season 7 is expected to start on August 9th, 2025.
