@@ -6,15 +6,16 @@ Meet the Staff!
 + [Owners](#owners)<br/>
 &nbsp;&nbsp; [LanderYT](#LanderYT)<br/>
 + [Admins](#admins)<br/>
+&nbsp;&nbsp; [Macky](#macky)<br/>
 + [Moderators](#moderators)<br/>
 &nbsp;&nbsp; [shallowcreek](#shallowcreek)<br/>
-+ [Helpers](#helpers)<br/>
-&nbsp;&nbsp; [Athena18](#athena18)<br/>
-+ [Trainees](#trainees)<br/>
-&nbsp;&nbsp; [Macky](#macky)<br/>
 &nbsp;&nbsp; [Viv](#viv)<br/>
-+ [Honorary/Retired](#honorary)<br/>
-&nbsp;&nbsp; [Minachou_](#mina)<br/>
+&nbsp;&nbsp; [Athena18](#athena18)<br/>
++ [Helpers](#helpers)<br/>
++ [Trainees](#trainees)<br/>
+&nbsp;&nbsp; Motas<br/>
+
+
 
 Below you will find short introductions for every member of the staff team.
 > See an typo or mistake? Feel free to reach out to us!
@@ -46,16 +47,17 @@ I may come of as harsh. Please bear with me.
 My interests include watching you guys on vanish,drawing, reading and writing. My favourite book is flowers for algernon.
 Have a nice day! 
 
-
-## Helpers
-### Athena18
-
-## Trainees
 ### Macky
 Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in Sept. of 2024. I have been playing minecraft since I was around 9 years old and switched over to Java only two years ago! My play style is building! I love creating new things and turning the world into something beautiful. I am in college IRL to become an occupational therapist so if you ever need me I am just a DM away!
 
+### Athena18
+
 ### Viv
 
-## Honorary
-### Mina
-heya i'm mina i do builds and i love bees ^^ and uh yeah if any of you ever need anything lmk ill be happy to help <3
+## Helpers
+
+
+## Trainees
+
+### Motas
+
