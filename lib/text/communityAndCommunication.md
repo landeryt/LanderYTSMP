@@ -10,7 +10,7 @@ However, that's not the only way people can reach out to us. Players and potenti
 
 ## New Players
 
-As long as the LanderYT SMP is still running, we will always be recruiting more members. Moreover, seeing as season 6, which is expected to start in July 2024 is fast approaching, it will mean more when you join us!
+As long as the LanderYT SMP is still running, we will always be recruiting more members. Moreover, seeing as season 7, which is expected to start in August 2025 is fast approaching, it will mean more when you join us!
 
 Keep in mind that we take great care in looking at these whitelist applications through Discord. We only whitelist those who are over 16 and put effort into what they write in their applications.
 
