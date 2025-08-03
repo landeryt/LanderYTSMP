@@ -117,7 +117,7 @@ There were even more demotions from the staff team leading up to the end of the 
 
 Minachu is a player who began playing in season 2 of the LanderYT SMP, but only became more active at the start of the new season 3. She rised through the ranks in the staff team swiftly, eventually, for the first time, and possibly only time in the LanderYT SMP, we had an Admin. 
 
-We also welcomed Red to the staff team, and he continued to help the server in various ways to present day.
+We also welcomed Red to the staff team, and he continued to help the server in various ways to season 5, before he started hating my guts.
 
 #### Downfall:
 
