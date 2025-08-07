@@ -2,12 +2,12 @@
 
 
 ## This is the easiest instruction video that works for all launchers: 
-[Instruction](https://youtu.be/LhOFa1LspU0)  and [download link](https://drive.google.com/file/d/1jOLC2SqKjmJ9EwjTvkSFaiiX-PmscyDd/view?usp=sharing)   
+[Instruction](https://youtu.be/LhOFa1LspU0)  and [download link](https://drive.google.com/file/d/1AjeppXLFWEXCYu_uYZUzqz2Kn7_JOWtU/view?usp=sharing)   
 
 
 ## For minecraft official launcher, if the instruction above doesn't work.  
 ## Step 1: Download the pack
-Here is the [download link](https://drive.google.com/file/d/1jOLC2SqKjmJ9EwjTvkSFaiiX-PmscyDd/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
+Here is the [download link](https://drive.google.com/file/d/1AjeppXLFWEXCYu_uYZUzqz2Kn7_JOWtU/view?usp=sharing) to download the official texture pack. Make sure to copy the pack when you finished downloading it. 
 
 ## Step 2: Navigate to the resourcepacks folder
 First, type %appdata% in your navigation bar as shown:    
