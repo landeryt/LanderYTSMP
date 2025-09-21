@@ -19,7 +19,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - _ianna
 - cupayet
 - timesoup_
-- syen_ce
 - Lyyn
 - BobbiDoWobbi
 
@@ -32,3 +31,4 @@ This is hand-picked from the players who signed up for the life series, dependin
 - PreyXEnVy
 - Lqurel
 - greenmasterTH
+- syen_ce
