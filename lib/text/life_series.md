@@ -34,3 +34,4 @@ This is hand-picked from the players who signed up for the life series, dependin
 - cupayet
 
 ## Rules
+- First and foremost, we are a group of friends, so please don't hold a grudge (unless the server goes after Lander unprovoked)
