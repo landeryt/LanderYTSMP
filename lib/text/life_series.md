@@ -17,7 +17,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - itsAllysaur
 - Dhisky/PinkishMan
 - _ianna
-- cupayet
 - timesoup_
 - Lyyn
 - BobbiDoWobbi
@@ -32,3 +31,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - Lqurel
 - greenmasterTH
 - syen_ce
+- cupayet
+
+## Rules
