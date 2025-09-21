@@ -6,3 +6,29 @@ This is hand-picked from the players who signed up for the life series, dependin
 ### Official (max: 20)
 - LanderYT
 - MackysLove
+- UliYeen
+- Faykan_Undol
+- Mier78
+- Motas9424
+- CivFin
+- ailluma
+- robotfan
+- babuba12321
+- itsAllysaur
+- Dhisky/PinkishMan
+- _ianna
+- cupayet
+- timesoup_
+- syen_ce
+- Lyyn
+- BobbiDoWobbi
+
+### Reserves/Wildcards:
+- R_AylaHood
+- _backjaaker
+- HighJump_
+- SorasSong
+- vivllz5
+- PreyXEnVy
+- Lqurel
+- greenmasterTH
