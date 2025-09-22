@@ -42,7 +42,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - SorasSong
 - DrDuck420
 - PreyXEnVy
-- Lqurel
 - greenmasterTH
 - syen_ce
 - JibbinMode
