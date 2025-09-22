@@ -33,6 +33,7 @@ This is hand-picked from the players who signed up for the life series, dependin
 - BobbiDoWobbi
 - cupayet
 - vivllz5
+- chosensteve
 
 ### Reserves/Wildcards:
 - R_AylaHood
