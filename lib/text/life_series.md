@@ -32,13 +32,14 @@ This is hand-picked from the players who signed up for the life series, dependin
 - Lyyn
 - BobbiDoWobbi
 - cupayet
+- vivllz5
 
 ### Reserves/Wildcards:
 - R_AylaHood
 - _backjaaker
 - HighJump_
 - SorasSong
-- vivllz5
+- DrDuck420
 - PreyXEnVy
 - Lqurel
 - greenmasterTH
