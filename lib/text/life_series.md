@@ -31,6 +31,7 @@ This is hand-picked from the players who signed up for the life series, dependin
 - timesoup_
 - Lyyn
 - BobbiDoWobbi
+- cupayet
 
 ### Reserves/Wildcards:
 - R_AylaHood
@@ -42,7 +43,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - Lqurel
 - greenmasterTH
 - syen_ce
-- cupayet
 - JibbinMode
 
 
