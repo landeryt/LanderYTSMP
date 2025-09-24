@@ -30,7 +30,6 @@ This is hand-picked from the players who signed up for the life series, dependin
 - _ianna
 - timesoup_
 - Lyyn
-- BobbiDoWobbi
 - cupayet
 - vivllz5
 - chosensteve
