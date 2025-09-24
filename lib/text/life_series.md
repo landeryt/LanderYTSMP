@@ -34,6 +34,7 @@ This is hand-picked from the players who signed up for the life series, dependin
 - cupayet
 - vivllz5
 - chosensteve
+- JibbinMode
 
 ### Reserves/Wildcards:
 - R_AylaHood
@@ -42,8 +43,8 @@ This is hand-picked from the players who signed up for the life series, dependin
 - SorasSong
 - DrDuck420
 - PreyXEnVy
-- greenmasterTH
 - syen_ce
-- JibbinMode
+- Tuckamon_
+- Namari30000
 
 
