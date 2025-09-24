@@ -34,11 +34,11 @@ This is hand-picked from the players who signed up for the life series, dependin
 - vivllz5
 - chosensteve
 - JibbinMode
+- HighJump_
 
 ### Reserves/Wildcards:
 - R_AylaHood
 - _backjaaker
-- HighJump_
 - SorasSong
 - DrDuck420
 - PreyXEnVy
