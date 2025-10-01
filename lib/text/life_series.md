@@ -37,14 +37,3 @@ This is hand-picked from the players who signed up for the life series, dependin
 - HighJump_
 - Derpiiii4
 
-### Reserves/Wildcards:
-- R_AylaHood
-- _backjaaker
-- SorasSong
-- DrDuck420
-- PreyXEnVy
-- syen_ce
-- Tuckamon_
-- Namari30000
-
-
