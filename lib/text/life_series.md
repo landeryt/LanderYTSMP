@@ -35,6 +35,7 @@ This is hand-picked from the players who signed up for the life series, dependin
 - chosensteve
 - JibbinMode
 - HighJump_
+- Derpiiii4
 
 ### Reserves/Wildcards:
 - R_AylaHood
