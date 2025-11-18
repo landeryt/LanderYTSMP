@@ -8,12 +8,12 @@ Meet the Staff!
 + [Admins](#admins)<br/>
 &nbsp;&nbsp; [Macky](#macky)<br/>
 + [Moderators](#moderators)<br/>
-&nbsp;&nbsp; [shallowcreek](#shallowcreek)<br/>
+&nbsp;&nbsp; [motas](#motas)
 &nbsp;&nbsp; [Viv](#viv)<br/>
 &nbsp;&nbsp; [Athena18](#athena18)<br/>
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
-&nbsp;&nbsp; Motas<br/>
+&nbsp;&nbsp; UnaecO<br/>
 
 
 
@@ -38,17 +38,13 @@ I'm sorted into the Hufflepuff house (of Hogwarts). Frankly, I think it's the mo
 
 ## Admins
 
-
-## Moderators
-### shallowcreek
-hello. I’m theta :creek: ,but you can call me by my Minecraft username creek. I’m a moderator of the server. (But lander does most of the moderation lmao) lover of sad guitar music,horrible chess player, angst writer.
-My life has gotten a lot busier nowadays, so I may not check discord as much. Ping me if you need anything.
-I may come of as harsh. Please bear with me.
-My interests include watching you guys on vanish,drawing, reading and writing. My favourite book is flowers for algernon.
-Have a nice day! 
-
 ### Macky
 Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in Sept. of 2024. I have been playing minecraft since I was around 9 years old and switched over to Java only two years ago! My play style is building! I love creating new things and turning the world into something beautiful. I am in college IRL to become an occupational therapist so if you ever need me I am just a DM away!
+
+
+## Moderators
+### Motas
+
 
 ### Athena18
 
@@ -59,5 +55,5 @@ Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in S
 
 ## Trainees
 
-### Motas
+### UnaecO
 
