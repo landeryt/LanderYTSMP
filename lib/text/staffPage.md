@@ -8,12 +8,12 @@ Meet the Staff!
 + [Admins](#admins)<br/>
 &nbsp;&nbsp; [Macky](#macky)<br/>
 + [Moderators](#moderators)<br/>
-&nbsp;&nbsp; [motas](#motas)
+&nbsp;&nbsp; [motas](#motas) <br/>
 &nbsp;&nbsp; [Viv](#viv)<br/>
 &nbsp;&nbsp; [Athena18](#athena18)<br/>
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
-&nbsp;&nbsp; UnaecO<br/>
+&nbsp;&nbsp; [UnaecO](#UnaecO)<br/>
 
 
 
