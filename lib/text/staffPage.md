@@ -8,12 +8,10 @@ Meet the Staff!
 + [Admins](#admins)<br/>
 &nbsp;&nbsp; [Macky](#macky)<br/>
 + [Moderators](#moderators)<br/>
-&nbsp;&nbsp; [motas](#motas) <br/>
-&nbsp;&nbsp; [Viv](#viv)<br/>
 &nbsp;&nbsp; [Athena18](#athena18)<br/>
 + [Helpers](#helpers)<br/>
 + [Trainees](#trainees)<br/>
-&nbsp;&nbsp; [UnaecO](#UnaecO)<br/>
+[ItsZwitch]
 
 
 
@@ -43,17 +41,14 @@ Hi everyone!! I'm Macky! I am fairly new to the Lander SMP server, I joined in S
 
 
 ## Moderators
-### Motas
 
 
 ### Athena18
-
-### Viv
 
 ## Helpers
 
 
 ## Trainees
 
-### UnaecO
+### ItsZwitch
 
