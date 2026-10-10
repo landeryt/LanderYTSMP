@@ -2,7 +2,7 @@
 
 
 ## This is the easiest instruction video that works for all launchers: 
-[Instruction](https://youtu.be/LhOFa1LspU0)  and [download link](https://drive.google.com/file/d/1hRA_Wu4nK3lPOJ5u3QX4EEPmUAra6v5q/view?usp=sharing)   
+[Instruction](https://youtu.be/LhOFa1LspU0)  and [download link](https://drive.google.com/file/d/13E1IY_ccDvTdhjnMGto_3oUqixiMg16R/view?usp=sharing)   
 
 
 ## For minecraft official launcher, if the instruction above doesn't work.  
